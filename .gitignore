@@ -69,3 +69,5 @@ fastlane/readme.md
 main.css
 
 yarn.lock
+
+node_modules
